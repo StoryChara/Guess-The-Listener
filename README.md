@@ -3,7 +3,7 @@
 ## Team
 
 ### Name
-2E
+> 2E
 
 ### Full names of the team members.
 | **Nombre**                   | **Correo**             |
@@ -19,21 +19,28 @@
 ## Software System
 
 ### Name
- Guess the Listener
+> Guess the Listener
 
 ### Logo
+> Proximamente
 
 ### Description
+> Proximamente
 
 ## Architectural Structures
 
 ### Component-and Connector (C&C) Structure
+> Proximamente
 
 #### C&C View
+> Proximamente
 
 #### Description of architectural styles used.
+> Proximamente
 
 #### Description of architectural elements and relations.
+> Proximamente
 
 ## Prototype
 ### Instructions for deploying the software system locally.
+> Proximamente
